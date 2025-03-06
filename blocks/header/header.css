@@ -41,7 +41,7 @@ header nav {
 }
 
 header nav a:any-link {
-  color: currentcolor;
+  color: #000;
 }
 
 header nav[aria-expanded='true'] {
@@ -221,7 +221,7 @@ header nav[aria-expanded='true'] .nav-tools li {
   header nav .nav-sections ul {
     display: flex;
     flex-direction: row;
-    background-color: unset;
+    background-color: #FFFFFF;
     width: unset;
     margin: 0;
   }
